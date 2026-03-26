@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+
+# Build Directories
+build/
+dist/
+
+# Logs
+npm-debug.log
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Others
+coverage/
+yarn-error.log
+*.log
+*.lock
